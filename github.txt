@@ -1,0 +1,36 @@
+Github
+* Github is a distrubuted revision system/source code management system
+* Git is initially developed by linus torvalds for linux kernal development
+* Github is a free distributed open source
+* Github liciensed under GNU General Public Liciense version 2
+
+Version Control System(VCS)
+* software that helps developers to work together
+* allows to work simultaneously
+* it doesn't allow overwriting each other's changes
+* it maintains history
+
+two types of version control systems
+* Centralised version control system(CVCS)
+* Distributed version control system(DVCS)
+
+CVCS
+* CVCS uses a central server to store all the files and enables team collobaration
+* Drawbacks of CVCS is failure of central server
+* if central server goes down for one hour no one can collobarate for one hour
+* disk of central server gets corrupted and proper backup then you will lose the entire history of that project
+
+DVCS
+* They can fully mirror our repositories
+* if server is down  then the repositories from any client can be copied back to server.
+* every checkout is a backup of the repository
+* you can commit changes
+* you can also offline 
+* network is required only to publish your requirements
+Fast and small - written in c and  perform operations locally
+free and open source - free over internet
+implicit backup - changes or losing is very rare
+security - Git uses a cryptographic function SHA1
+no need any powerful hardware
+
+
